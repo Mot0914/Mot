@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color:slateblue;
+}
+
+header{
+  position: relative;
+  padding-left: 100px;
+}
+
+nav{
+  position: absolute;
+  top:0;
+  right: 100px;
+}
+
+ul{
+  display: flex;
+  color:darkorchid;
+  list-style-type: none;
+  text-align: center;
+}
+.test{
+  padding-left: 400px
+  
+}
+
+li{
+  color:cyan;
+  padding-right: 50px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+img{
+  width: 500px;
+}
+body {
+  background-image: url("0.jpeg");
+  background-size: cover;
+}
+
+
